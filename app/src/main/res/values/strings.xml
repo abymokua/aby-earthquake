@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Earthquake</string>
+    <string name="home">home</string>
+    <string name="map">map</string>
+    <string name="about">about</string>
+    <string name="items">all data</string>
+</resources>
